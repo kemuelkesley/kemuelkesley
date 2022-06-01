@@ -17,8 +17,7 @@
   <img align="center" alt="kemuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kemuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kemuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="kemuel-Csh" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
-  <img alt="Django icon" srcset="https://img.icons8.com/color/2x/django.png 2x">
+  <img align="center" alt="kemuel-Csh" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">  
   <img align="center" alt="kemuel-Csh" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="kemuel-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="kemuel-SQL" height="30" width="40" src="https://icongr.am/entypo/database.svg?size=128&color=fff700">
