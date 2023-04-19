@@ -1,7 +1,6 @@
 ### Olá me chamo Kemuel Kesley 👋
 
-- 🔭 Estou trabalhando com banco de dados SQL server 2019, análise de dados e futuramente com Front-End
-- 🌱 Estou aprendendo atualmente JavaScript...
+
  
  
 <div align="center">
